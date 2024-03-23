@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="saludo">Holis :3</string>
+    <string name="texto_action">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Martes</item>
+        <item>Jupiter</item>
+    </string-array>
+    <string name="titulo_tarjeta">Tarjetica</string>
+    <string name="descripcion_tarjeta">Tarjeta chevere :3</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="correo_nombre">Nombre</string>
+    <string name="correo_correo">Correo</string>
+    <string name="correo_mensaje">Mensaje</string>
+    <string name="correo_boton">Enviar Comentario</string>
+    <string name="campo_obligatorio">Campo Obligatorio</string>
+    <string name="EMAIL">petagramcoursera@gmail.com</string>
+    <string name="PASSWORD">petagram12345</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="edad">Edad:</string>
+    <string name="dedicacion">Dedicación:</string>
+    <string name="pais">Pais:</string>
+    <string name="pais_desc">Venezuela</string>
+    <string name="nombre_desc">Jose Miguel</string>
+    <string name="apellido_desc">Duin Garcia</string>
+    <string name="edad_desc">24 años</string>
+    <string name="dedicacion_desc">Estudiante</string>
+    <string name="fav5_not_match">Aún no posees ningún mascota favorita</string>
+    <string name="configurar_cuenta">Configurar Cuenta</string>
+    <string name="petagram">Petagram</string>
+    <string name="escribe_un_usuario">Escribe tu usuario</string>
+    <string name="guardar_cuenta">Guardar Cuenta</string>
+
+</resources>
